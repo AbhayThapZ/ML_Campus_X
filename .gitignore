@@ -1,0 +1,61 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Large datasets (optional)
+data/
+datasets/
+
+# Trained models (optional)
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Temporary files
+*.tmp
+*.temp
