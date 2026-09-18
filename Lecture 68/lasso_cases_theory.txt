@@ -1,0 +1,1 @@
+just theory and mathematics about lasso and ridge regression mathematics and how the lambda value is responsible for the value to be 0 in lasso while in ridge it never reaches to zero
