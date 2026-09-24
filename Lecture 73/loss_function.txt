@@ -1,0 +1,1 @@
+just theory about the loss fuction of logistic regression
