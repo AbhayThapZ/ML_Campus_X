@@ -1,1 +1,1 @@
-Just basic theory about mutually exclusive events
+Just basic theory about mutually exclusive events and its comparison to the independent variables
